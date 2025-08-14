@@ -1,4 +1,4 @@
-ℹ️ ayberkozcan22 is my Github Profile Repo!
+ℹ️ ayberkozcan22 Repo is my Github Profile Repo!
 
 # 🙋‍♂️About me:
 👋 Hi, I am Ayberk Özcan.<br>
