@@ -1,3 +1,5 @@
+ℹ️ ayberkozcan22 is my Github Profile Repo!
+
 # 🙋‍♂️About me:
 👋 Hi, I am Ayberk Özcan.<br>
 💻 I am currently Sophomore Computer Engineering student at Koç University.<br>
